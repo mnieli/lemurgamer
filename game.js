@@ -12,7 +12,7 @@ const lemur = {
     speed: 5
 };
 
-const bullets = [];
+let bullets = [];
 const bulletSpeed = 7;
 const bulletInterval = 1500; // Milisegundos
 
